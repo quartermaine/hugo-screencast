@@ -8,3 +8,7 @@ theme = "ananke"
 name = "awsbucket"
 URL = "s3://hugo-aws/?region=us-east-2" #your bucket here
 
+
+
+
+
