@@ -7,7 +7,7 @@ draft: false
 
 ## This is my first post, Horray!
 
-## some test sample
+## some test text
 
 
 
