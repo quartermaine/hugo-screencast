@@ -1,5 +1,10 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "http://hugo-aws.s3-website.us-east-2.amazonaws.com/"
+languageCode = "en-us"
+title = "My New Hugo Site"
 theme = "ananke"
+
+[[deployment.targets]]
+# An arbitrary name for this target.
+name = "awsbucket"
+URL = "s3://hugo-aws/?region=us-east-2" #your bucket here
 
