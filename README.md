@@ -6,3 +6,6 @@ For the complete walkthrough you can refer to this [video](https://www.youtube.c
 
 You can see the example website [here](http://hugo-aws.s3-website.us-east-2.amazonaws.com)
 
+*Note*: The walkthrough in the video and pdf might be a little challenging in the github creation and AWS cloud9 cloning and pushing code. A more easier way is to first create a github repo and clone to cloud9 environment and after follow the tutorials. 
+      
+      
