@@ -1,5 +1,5 @@
 ---
-title: "My First Post"
+title: "Hugo AWS CD"
 date: 2021-11-17T17:18:28Z
 draft: false
 ---
